@@ -10,7 +10,7 @@ Focused on connecting business strategy, fraud intelligence, data analytics, cyb
 
 ---
 
-## 🇬🇧 PROFESSIONAL EXPERTISE
+ PROFESSIONAL EXPERTISE
 
 - **Fraud Prevention:** Fraud strategy, transaction monitoring, digital fraud, onboarding risks and fraud intelligence.
 - **Cyber Risk:** Cyber risk assessment, security controls, threat analysis and governance.
@@ -18,13 +18,13 @@ Focused on connecting business strategy, fraud intelligence, data analytics, cyb
 - **Artificial Intelligence:** Generative AI, intelligent agents and process automation.
 - **Governance:** NIST 800-53, NIST Cybersecurity Framework and MITRE ATT&CK.
 
-## 🇧🇷 SOBRE MIM
+ SOBRE MIM
 
 Profissional com mais de 21 anos de experiência em prevenção a fraudes, serviços financeiros, riscos digitais e tecnologia.
 
 Atuação na conexão entre estratégia de negócios, inteligência antifraude, análise de dados, segurança cibernética e tecnologias emergentes para fortalecer a gestão de riscos e a resiliência organizacional.
 
-## 🛠️ TECHNOLOGY & TOOLS
+ TECHNOLOGY & TOOLS
 
 **Data & Programming**
 - SQL | Python | Pandas | Jupyter Notebook
