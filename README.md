@@ -1,30 +1,36 @@
-# Elvys Pascoal
+# ELVYS PASCOAL
 
-### Fraud Prevention | Cyber Risk | Data & AI Strategy
+### FRAUD PREVENTION | CYBER RISK | DATA & AI STRATEGY
 
 **Senior Professional | Financial Services | Risk Management | Technology**
 
-Professional with 21+ years of experience in fraud prevention, financial services, digital risk and technology-driven solutions.
+Professional with **21+ years of experience** in fraud prevention, financial services, digital risk, cybersecurity, and technology-driven solutions.
 
-Focused on connecting business strategy, fraud intelligence, data analytics, cybersecurity and emerging technologies to strengthen organizational resilience and improve risk management.
+Focused on connecting business strategy, fraud intelligence, data analytics, cybersecurity, and emerging technologies to strengthen organizational resilience and improve risk management.
 
 ---
 
- PROFESSIONAL EXPERTISE
+## PROFESSIONAL EXPERTISE
 
-- **Fraud Prevention:** Fraud strategy, transaction monitoring, digital fraud, onboarding risks and fraud intelligence.
-- **Cyber Risk:** Cyber risk assessment, security controls, threat analysis and governance.
-- **Data Analytics:** SQL, Python, Pandas, data analysis and business intelligence.
-- **Artificial Intelligence:** Generative AI, intelligent agents and process automation.
-- **Governance:** NIST 800-53, NIST Cybersecurity Framework and MITRE ATT&CK.
+- **Fraud Prevention:** Fraud strategy, transaction monitoring, digital fraud, onboarding risks, and fraud intelligence.
+- **Cyber Risk:** Cyber risk assessment, security controls, threat analysis, and governance.
+- **Data Analytics:** SQL, Python, Pandas, data analysis, and business intelligence.
+- **Artificial Intelligence:** Generative AI, intelligent agents, and process automation.
+- **Governance:** NIST 800-53, NIST Cybersecurity Framework, and MITRE ATT&CK.
 
- SOBRE MIM
+---
 
-Profissional com mais de 21 anos de experiência em prevenção a fraudes, serviços financeiros, riscos digitais e tecnologia.
+## ABOUT ME | SOBRE MIM
 
-Atuação na conexão entre estratégia de negócios, inteligência antifraude, análise de dados, segurança cibernética e tecnologias emergentes para fortalecer a gestão de riscos e a resiliência organizacional.
+Professional with more than 21 years of experience in fraud prevention, financial services, digital risk, and technology.
 
- TECHNOLOGY & TOOLS
+Experienced in connecting business strategy, fraud intelligence, data analytics, cybersecurity, and emerging technologies to strengthen risk management and organizational resilience.
+
+Atuação na integração entre estratégia de negócios, inteligência antifraude, análise de dados, segurança cibernética e tecnologias emergentes.
+
+---
+
+## TECHNOLOGY & TOOLS
 
 **Data & Programming**
 - SQL | Python | Pandas | Jupyter Notebook
@@ -35,35 +41,56 @@ Atuação na conexão entre estratégia de negócios, inteligência antifraude, 
 
 **Cybersecurity & Risk**
 - NIST 800-53 | MITRE ATT&CK
+- NIST Cybersecurity Framework 2.0
 - Fraud Risk Assessment | Cyber Risk Governance
 
 **Artificial Intelligence**
 - Generative AI | AI Agents
 - Workflow Automation | Risk Intelligence
 
-## 📂 PROFESSIONAL PORTFOLIO
+---
 
-Projects focused on practical applications of:
+## PROFESSIONAL PORTFOLIO
 
-- Fraud Prevention & Analytics
-- Credit Risk Analysis
-- Cyber Risk & Governance
-- AI Risk Automation
-- Business Intelligence
+### 1. Fraud Intelligence & Transaction Monitoring
 
-*Projects are progressively being developed and documented using public or synthetic data.*
+Transaction monitoring, fraud detection strategies, risk indicators, and analytical intelligence.
 
-## 🎯 PROFESSIONAL MISSION
+[View project on GitHub](https://github.com/ElvysSergioPascoal425/fraud-intelligence-transaction-monitoring)
 
-Transforming complex fraud and cyber risk challenges into strategic, intelligent and scalable solutions.
+### 2. Digital Onboarding Fraud Risk Analytics
 
-Transformar desafios complexos de prevenção a fraudes e riscos cibernéticos em soluções estratégicas, inteligentes e escaláveis.
+Digital onboarding risk assessment, identity signals, fraud detection, and predictive analytics.
 
-## 🤝 PROFESSIONAL INTERESTS
+[View project on GitHub](https://github.com/ElvysSergioPascoal425/digital-onboarding-fraud-risk-analytics)
 
-Senior Specialist | Senior Analyst | Risk Management | Fraud Prevention | Cyber Risk | Coordination
+### 3. Cyber Fraud Intelligence & Threat Analytics
+
+Cyber threat intelligence, heuristic risk scoring, MITRE ATT&CK, NIST CSF 2.0, and executive risk dashboards.
+
+[View project on GitHub](https://github.com/ElvysSergioPascoal425/cyber-fraud-intelligence-threat-analytics)
 
 ---
 
-**Elvys Pascoal**  
-Fraud Prevention · Cyber Risk · Data Analytics · Artificial Intelligence
+## PROFESSIONAL FOCUS
+
+- Fraud Prevention & Intelligence
+- Cyber Risk Management
+- Digital Financial Crime
+- Risk Analytics & Data Strategy
+- Security Governance
+- Artificial Intelligence & Automation
+
+**Professional interests:** Senior Analyst | Specialist | Coordinator | Fraud Prevention | Cyber Risk | Risk Management
+
+---
+
+## CONNECT
+
+**GitHub:** [ElvysSergioPascoal425](https://github.com/ElvysSergioPascoal425)
+
+*Connecting Fraud Intelligence, Cybersecurity, Data Analytics and AI to transform risk management into strategic business intelligence.*
+
+---
+
+*All portfolio datasets and demonstrations are synthetic and do not contain real customer or institutional data.*
